@@ -1,7 +1,5 @@
 Software Engineering Project
 Software Engineering Project
-<<<<<<< HEAD
 Registration Module Added
-=======
 Login Module Added
->>>>>>> feature-login
+ feature-login
